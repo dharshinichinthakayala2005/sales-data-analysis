@@ -6,6 +6,8 @@ Sales Data Analysis – Walmart Dataset
 📌 Objective
 
 Analyze Walmart’s retail sales data to uncover trends, seasonality, and product performance for better forecasting and inventory management.
+
+
 📂 Dataset
 
     Source: Walmart retail dataset

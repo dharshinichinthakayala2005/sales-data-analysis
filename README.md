@@ -15,28 +15,39 @@ Analyze Walmart’s retail sales data to uncover trends, seasonality, and produc
 1. Data Collection
 
     Imported Walmart sales dataset
+   
     Verified data integrity (missing/duplicate values)
+   
 
-2. Data Exploration
+3. Data Exploration
 
     Explored sales by store, department, and time
+   
     Identified sales peaks and dips
+   
 
-3. Data Preprocessing
+5. Data Preprocessing
 
     Cleaned missing values and duplicates
+   
     Converted Date for time-series analysis
+   
 
-4. Exploratory Data Analysis (EDA)
+7. Exploratory Data Analysis (EDA)
 
     Line plots for weekly/monthly trends
+   
     Bar plots for store and department performance
+   
     Analyzed impact of holidays on sales
+   
 
-5. Feature Engineering & Insights
+9. Feature Engineering & Insights
 
     Extracted month/year from date
+   
     Visualized correlations using heatmap
+   
 
 📌 Conclusion
 
